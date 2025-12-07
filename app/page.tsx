@@ -1,3 +1,7 @@
+// app/page.tsx
+
+import MapPage from "./components/MapPage";
+
 export default function Home() {
-  return <div></div>;
+  return <MapPage />;
 }
